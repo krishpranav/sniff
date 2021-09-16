@@ -1,0 +1,12 @@
+# system cache
+.DS_Store
+
+# vscode cache
+.vscode/
+
+# jetbrains cache
+.idea/
+
+# compiled file of sniff.go
+sniff
+
